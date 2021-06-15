@@ -1,4 +1,4 @@
-# time-series-analysis
+# Time Series Analysis
 ### Authors: Danh Nguyen, Tian Qi, Phillip Navo
 
 ## Data description
